@@ -7,6 +7,6 @@ Soy Ingeniera Informática y actualmente me encuentro estudiando un máster para
 
 #### Contacto
 
-[![linkedin](img/likdin.png)](https://www.linkedin.com/in/ainoa-iglesias-dasilva-966bb4227/)
+[Linkedin](https://www.linkedin.com/in/ainoa-iglesias-dasilva-966bb4227/)
 
 alu0101164403@ull.edu.es
